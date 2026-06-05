@@ -1,0 +1,7 @@
+{
+  "server": "your_server_address,port",
+  "database": "your_database_name",
+  "username": "your_username",
+  "password": "your_password",
+  "note": "Leave username/password empty to use Windows Authentication (Trusted_Connection)"
+}
